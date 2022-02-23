@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45293deb.css",
+    "main.js": "/static/js/main.fd5e836e.js",
+    "static/js/787.dc810c12.chunk.js": "/static/js/787.dc810c12.chunk.js",
+    "static/media/semih.png": "/static/media/semih.4b487ee0590b92b9fb89.png",
+    "static/media/emre.png": "/static/media/emre.1f786c7a3b5f48498e0e.png",
+    "static/media/can.png": "/static/media/can.377e2e234226fd2e95f3.png",
+    "static/media/esin.png": "/static/media/esin.25e569f8d604537b4ddc.png",
+    "static/media/BasriBaskan.png": "/static/media/BasriBaskan.6d19a8c473f1bedc6315.png",
+    "static/media/BarisBaskan.png": "/static/media/BarisBaskan.fbcdac90bc668102b981.png",
+    "static/media/phone.png": "/static/media/phone.52863587aa43a5efc1e1.png",
+    "static/media/ProcessMobile.png": "/static/media/ProcessMobile.cf453966080b4818e395.png",
+    "static/media/Süreç-Anlatısı.png": "/static/media/Süreç-Anlatısı.ae9bbfa57b783ea169b4.png",
+    "static/media/mail.png": "/static/media/mail.6eb3b30a43f402bfee9b.png",
+    "static/media/Logo2.png": "/static/media/Logo2.55da44067ac77e1d9f34.png",
+    "static/media/Cloud-icon.png": "/static/media/Cloud-icon.820cd58624c29e32bc21.png",
+    "static/media/Blockchain-icon.png": "/static/media/Blockchain-icon.b484d49e64eecf1a8d7a.png",
+    "index.html": "/index.html",
+    "main.45293deb.css.map": "/static/css/main.45293deb.css.map",
+    "main.fd5e836e.js.map": "/static/js/main.fd5e836e.js.map",
+    "787.dc810c12.chunk.js.map": "/static/js/787.dc810c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45293deb.css",
+    "static/js/main.fd5e836e.js"
+  ]
+}
